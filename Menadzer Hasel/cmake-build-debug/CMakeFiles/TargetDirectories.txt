@@ -1,0 +1,3 @@
+/Users/juliachainska/Library/Mobile Documents/com~apple~CloudDocs/CLion Projects/projektc4-kopia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/juliachainska/Library/Mobile Documents/com~apple~CloudDocs/CLion Projects/projektc4-kopia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/juliachainska/Library/Mobile Documents/com~apple~CloudDocs/CLion Projects/projektc4-kopia/cmake-build-debug/CMakeFiles/projektc4.dir
